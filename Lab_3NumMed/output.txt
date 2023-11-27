@@ -1,0 +1,4 @@
+PageA: 0.15
+PageB: 0.15
+PageC: 0.15
+PageD: 0.15
